@@ -6,9 +6,9 @@
 
  ## Estrutura do Repositório
 
--   [ Sistema Bancario ](//desafio_Dio/Desafio_sistema%20bancario/)
+-   [ Sistema Bancario ](/desafio_Dio/Desafio_sistema%20bancario/)
 
--   [ORM - Sql](//desafio_Dio/desafio_sql/)
+-   [ORM - Sql](/desafio_Dio/desafio_sql/)
 
 -   [FlaskApi](/desafio_Dio/desafio_flask_api/)
 
